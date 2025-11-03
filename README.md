@@ -25,8 +25,8 @@ I love working across the stack — from intuitive interfaces to robust APIs —
   Built with **Next.js**, **Prisma ORM**, **Stripe**, and **PostgreSQL**, featuring **RBAC**, multi-tenant support, and modern UI with **ShadCN**.
 
 - 🦁 **[Lion X Pro](https://github.com/opedro-monteiro/lionx-pro)**  
-  Full-featured business management system for small companies, with modules for quotes, client management, and finance.  
-  Built using **C++**, **Qt**, and **SQLite**, focused on automation and simplicity.
+  A web platform for rendering architecture and engineering projects directly in the browser.  
+  Implemented with **NestJS**, **Next.js**, **PostgreSQL**, **Docker**, and **AWS**, integrating the **Autodesk API** for 3D model handling and visualization.
 
 ---
 
