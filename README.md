@@ -20,11 +20,11 @@ I love working across the stack — from intuitive interfaces to robust APIs —
 
 ### 🚀 Recent Projects
 
-- 🧠 **[SmartVidros](https://github.com/opedro-monteiro/smartVidros)**  
+- 🧠 **[SmartVidros](https://smartvidros.framer.ai/)**  
   SaaS for glass shops to manage budgets, inventory, and sales.  
   Built with **Next.js**, **Prisma ORM**, **Stripe**, and **PostgreSQL**, featuring **RBAC**, multi-tenant support, and modern UI with **ShadCN**.
 
-- 🦁 **[Lion X Pro](https://github.com/opedro-monteiro/lionx-pro)**  
+- 🦁 **[Lion X Pro](https://www.linkedin.com/posts/opedro-monteiro_graduation-finalproject-bim-activity-7402805021295235072-35cz?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzaA80Bw4fdIRqqdc0wJfbD99jB7myI-aM)**  
   A web platform for rendering architecture and engineering projects directly in the browser.  
   Implemented with **NestJS**, **Next.js**, **PostgreSQL**, **Docker**, and **AWS**, integrating the **Autodesk API** for 3D model handling and visualization.
 
