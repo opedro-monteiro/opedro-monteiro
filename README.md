@@ -38,17 +38,4 @@ I love working across the stack — from intuitive interfaces to robust APIs —
 
 ---
 
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/opedro-monteiro">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/opedro-monteiro/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
 <p align="center">⚡ "Code with clarity, design with purpose, deliver with impact." ⚡</p>
