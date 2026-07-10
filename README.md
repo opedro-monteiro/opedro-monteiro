@@ -27,7 +27,11 @@ I love working across the stack — from intuitive interfaces to robust APIs —
 - 🦁 **[Arch.BIM](https://github.com/opedro-monteiro/arch.bim)**  
   A web platform for rendering architecture and engineering projects directly in the browser.  
   Implemented with **NestJS**, **Next.js**, **PostgreSQL**, **Docker**, and **AWS**, integrating the **Autodesk API** for 3D model handling and visualization.
-
+  
+- 📦 **[create-react-feature](https://www.npmjs.com/package/create-react-feature)**  
+  An npm CLI that scaffolds a Feature-Driven Architecture for **React** and **Next.js** applications.  
+  Generates a standardized feature structure with folders such as **components**, **hooks**, **services**, **schemas**, **storage**, **types**, and **utils**, helping teams    build scalable and maintainable projects.
+  
 ---
 
 ### 🛠️ Tech Stack
